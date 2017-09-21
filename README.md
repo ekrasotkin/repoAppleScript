@@ -1,0 +1,2 @@
+# repoAppleScript
+Скрипты на AppleScript
